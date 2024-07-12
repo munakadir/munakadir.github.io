@@ -1,2 +1,0 @@
-# munakadir.github.io
-template
